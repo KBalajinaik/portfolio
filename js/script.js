@@ -168,10 +168,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // ==========================================
   const typedTextSpan = document.querySelector('.typed-text');
   const strings = [
-    'Full Stack Web Developer',
-    'Backend Systems Engineer',
-    'UI/UX Practitioner',
-    'Cloud Solutions Enthusiast'
+    'Data Science Engineering Student',
+    'Machine Learning Enthusiast',
+    'Python Programmer',
+    'Aspiring Data Scientist'
   ];
   const typingDelay = 100;
   const erasingDelay = 60;
